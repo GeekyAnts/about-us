@@ -1,4 +1,4 @@
-# About_us
+# About us
 Hello and welcome 😄
 
 We're **[GeekyAnts](https://geekyants.com/?utm_source=GeekyAnts&utm_medium=GitHub&utm_campaign=README)**, passionate devs who absolutely ❤️ building with **React** and **Flutter**. We build sleek solutions, bring product ideas to life and constantly strive to **Research**, **Collaborate** & **Build**.
